@@ -1,0 +1,54 @@
+# Operating System Files
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+[Dd]esktop.ini
+
+# Editors & IDEs
+.idea/
+.vscode/
+*.swp
+*.swo
+*~
+*.sublime-project
+*.sublime-workspace
+
+# Build outputs & caches
+build/
+dist/
+target/
+out/
+bin/
+obj/
+*.log
+
+# Node / Web / Tauri
+node_modules/
+.npm
+package-lock.json.bak
+
+# Rust / Cargo
+Cargo.lock.bak
+
+# Flutter / Dart
+.dart_tool/
+.packages
+.pub-cache/
+.pub/
+
+# Android / Gradle
+.gradle/
+local.properties
+*.apk
+*.aab
+*.keystore
+*.jks
+
+# Environment & local configs
+.env
+.env.local
+*.local
