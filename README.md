@@ -54,7 +54,7 @@
 
 ### Cloning the Repository
 ```bash
-git clone https://github.com/abdsnwb/membrane.git
+git clone https://github.com/abd2k3-debug/membrane.git
 cd membrane
 ```
 
